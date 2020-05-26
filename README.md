@@ -1,2 +1,2 @@
 # git-test
-My second git test file, but modified
+My first git test file, but modified
